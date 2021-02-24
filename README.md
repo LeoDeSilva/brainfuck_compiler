@@ -7,7 +7,7 @@ or:
   code = "+++[>+++<-]>."
   brainfuck.evaluate(code)
 
-> - move memory pointer right\
+>> > - move memory pointer right\
 < - move memory pointer left\
 . - print ascii character of value at current memory location\
 , - replace value in memory location with value for inputed ascii character\
